@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DKDVQKBW
 
 [Document2]
 DocumentPath=..\..\Downloads\PLC Modbus Board V2 1(1)\PLC Modbus Demo Board V2 1\ResearchProject_V3_schematic.SchDoc
@@ -149,10 +149,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MPRJBCLL
 
 [Document7]
-DocumentPath=..\ResearchProject_V4_final.PcbDoc
+DocumentPath=ResearchProject_V4_final.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PRLWTGDU
 
 [Document10]
 DocumentPath=..\IEEE-PCB-Workshop-Fall-2026\Component_Library\Altium\NFC_Luggage_Tag\NFC_Luggage_Tag.SCHLIB
