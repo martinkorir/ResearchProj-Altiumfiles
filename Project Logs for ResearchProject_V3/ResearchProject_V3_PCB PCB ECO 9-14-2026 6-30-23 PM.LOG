@@ -1,0 +1,1109 @@
+Added Component: Designator=C1(CAPTH6.3x11)
+Added Component: Designator=C2(CAPTH6.3x11)
+Added Component: Designator=C3(CAPTH6.3x11)
+Added Component: Designator=C4(CAP0603)
+Added Component: Designator=C5(CAP0603)
+Added Component: Designator=C6(CAP0603)
+Added Component: Designator=C7(CAP0603)
+Added Component: Designator=C8(CAPTH6.3x11)
+Added Component: Designator=C9(CAP0603)
+Added Component: Designator=C10(CAP0603)
+Added Component: Designator=C11(CAP0603)
+Added Component: Designator=C12(CAP0603)
+Added Component: Designator=C16(CAP0603)
+Added Component: Designator=C17(CAPTH6.3x11)
+Added Component: Designator=C25(CAP0603)
+Added Component: Designator=C32(CAP0603)
+Added Component: Designator=C35(CAP0603)
+Added Component: Designator=C37(CAP0603)
+Added Component: Designator=C38(CAP0603)
+Added Component: Designator=C39(CAP0603)
+Added Component: Designator=C43(CAP0805)
+Added Component: Designator=C45(CAP0603)
+Added Component: Designator=C46(CAP0805)
+Added Component: Designator=C49(CAP0805)
+Added Component: Designator=C50(CAPTH6.3x11)
+Added Component: Designator=C51(CAP0603)
+Added Component: Designator=C52(CAP0603)
+Added Component: Designator=C59(CAP0603)
+Added Component: Designator=C60(CAP0603)
+Added Component: Designator=D6(SOD323)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SOD323)
+Added Component: Designator=D9(SOD323)
+Added Component: Designator=D10(SOD323)
+Added Component: Designator=D13(LEDM2012X80N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D17(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D18(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D19(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D20(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D21(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D22(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D23(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D24(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D25(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=F1(Fuse Holder 5x20mm)
+Added Component: Designator=FB2(BEADC0603)
+Added Component: Designator=H1(Header_1X6)
+Added Component: Designator=H2(Header_1X6)
+Added Component: Designator=H3(Header_1X6)
+Added Component: Designator=H4(Header_1X4)
+Added Component: Designator=H5(Header_1X6)
+Added Component: Designator=H6(Header_1X2)
+Added Component: Designator=H7(Header_1X12)
+Added Component: Designator=H8(Header_1X4)
+Added Component: Designator=H9(Header_1X12)
+Added Component: Designator=H10(Header_1X3)
+Added Component: Designator=H11(Header_1X3)
+Added Component: Designator=H12(Header_1X8)
+Added Component: Designator=H13(Header_1X8)
+Added Component: Designator=H14(Header_1X12)
+Added Component: Designator=H15(Header_1X3)
+Added Component: Designator=H16(Header_1X8)
+Added Component: Designator=H17(Header_1X8)
+Added Component: Designator=H18(Header_1X12)
+Added Component: Designator=H19(Header_1X2)
+Added Component: Designator=H20(Header_1X2)
+Added Component: Designator=H21(Header_1X2)
+Added Component: Designator=H22(Header_1X2)
+Added Component: Designator=H23(Header_1X2)
+Added Component: Designator=H24(Header_1X2)
+Added Component: Designator=H25(Header_1X12)
+Added Component: Designator=H26(Header_1X12)
+Added Component: Designator=H34(Header_1X6)
+Added Component: Designator=IC3(QFN40P800X800X80-69N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4233HP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "FTDI Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FT4232HPQ-TRAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "895-FT4232HPQ-TRAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/FTDI/FT4232HPQ-TRAY?qs=DRkmTr78QATL4FSPfVZC7Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Header_1X4)
+Added Component: Designator=J2(PJ037AH)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PJ-037AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pj-037ah/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/pj-037ah/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PJ-037AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-PJ-037AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-037AH?qs=WyjlAZoYn50M7m1AkzfPaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(USB Mini-B)
+Added Component: Designator=Q1(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC0603)
+Added Component: Designator=R2(RESC0603)
+Added Component: Designator=R3(RESC0603)
+Added Component: Designator=R5(RESC0603)
+Added Component: Designator=R15(RESC0603)
+Added Component: Designator=R17(RESC0603)
+Added Component: Designator=R18(RESC0402)
+Added Component: Designator=R19(RESC0402)
+Added Component: Designator=R33(RESC0603)
+Added Component: Designator=R38(RESC0603)
+Added Component: Designator=R40(RESC0603)
+Added Component: Designator=R42(RESC0603)
+Added Component: Designator=R44(RESC0603)
+Added Component: Designator=R45(RESC0603)
+Added Component: Designator=R47(RESC0603)
+Added Component: Designator=R48(RESC0603)
+Added Component: Designator=R49(RESC0603)
+Added Component: Designator=R50(RESC0603)
+Added Component: Designator=R51(RESC0603)
+Added Component: Designator=R54(RESC0603)
+Added Component: Designator=R56(RESC0603)
+Added Component: Designator=R57(3339P1103LF)
+Added Component: Designator=R59(RESC0603)
+Added Component: Designator=R64(RESC0603)
+Added Component: Designator=R65(RESC0603)
+Added Component: Designator=R68(RESC0603)
+Added Component: Designator=R69(RESC0603)
+Added Component: Designator=R70(RESC0603)
+Added Component: Designator=R72(3339P1103LF)
+Added Component: Designator=R75(RESC0603)
+Added Component: Designator=R77(RESC0603)
+Added Component: Designator=R78(3339P1103LF)
+Added Component: Designator=R102(RESC0603)
+Added Component: Designator=R105(RESC0402)
+Added Component: Designator=R106(RESC0402)
+Added Component: Designator=R107(RESC0402)
+Added Component: Designator=R108(RESC0402)
+Added Component: Designator=SW1(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=SW2(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=SW3(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=SW4(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=SW5(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=SW6(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=U1(TO-220-3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LD1086V33-DG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ld1086v33-dg/stmicroelectronics?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LD1086V33-DG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LD1086V33-DG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-LD1086V33-DG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD1086V33-DG?qs=kWQV1gtkNncEt67PbJzViw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT223)
+Added Component: Designator=U3(ESP32WROOM32EN8)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjLw4ysybv2AhXFzIUKHZUbB64QFnoECCwQAQ&url=https%3A%2F%2Fwww.espressif.com%2Fsites%2Fdefault%2Ffiles%2Fdocumentation%2Fesp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf&usg=AOvVaw1xSL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-WROOM-32E-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32WRM32E164PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32E-N8?qs=Li%252BoUPsLEnsLnZW%252BGLgUhw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U4(eACEv5150)
+Added Component: Designator=U6(TSSOP16)
+Added Component: Designator=U7(ESP32WROOM32EN8)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjLw4ysybv2AhXFzIUKHZUbB64QFnoECCwQAQ&url=https%3A%2F%2Fwww.espressif.com%2Fsites%2Fdefault%2Ffiles%2Fdocumentation%2Fesp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf&usg=AOvVaw1xSL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-WROOM-32E-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32WRM32E164PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32E-N8?qs=Li%252BoUPsLEnsLnZW%252BGLgUhw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U8(TSSOP14)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LSF0204DPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lsf0204dpwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lsf0204d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSF0204DPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LSF0204DPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LSF0204DPWR?qs=ADSrZYdIRCcP9%252B%2FUL5YMBQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U9(TSSOP16)
+Added Component: Designator=U10(SOIC14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/lm224.pdf?"; VariantName = "[No Variations]"
+Added Component: Designator=U13(ESP32WROOM32EN8)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjLw4ysybv2AhXFzIUKHZUbB64QFnoECCwQAQ&url=https%3A%2F%2Fwww.espressif.com%2Fsites%2Fdefault%2Ffiles%2Fdocumentation%2Fesp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf&usg=AOvVaw1xSL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-WROOM-32E-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32WRM32E164PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32E-N8?qs=Li%252BoUPsLEnsLnZW%252BGLgUhw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C1-1
+Added Pin To Net: NetName=+3.3 Pin=C2-1
+Added Pin To Net: NetName=+3.3 Pin=C5-1
+Added Pin To Net: NetName=+3.3 Pin=C8-1
+Added Pin To Net: NetName=+3.3 Pin=C9-1
+Added Pin To Net: NetName=+3.3 Pin=C11-1
+Added Pin To Net: NetName=+3.3 Pin=C50-1
+Added Pin To Net: NetName=+3.3 Pin=C51-1
+Added Pin To Net: NetName=+3.3 Pin=H5-1
+Added Pin To Net: NetName=+3.3 Pin=H5-2
+Added Pin To Net: NetName=+3.3 Pin=H5-3
+Added Pin To Net: NetName=+3.3 Pin=H5-4
+Added Pin To Net: NetName=+3.3 Pin=H5-5
+Added Pin To Net: NetName=+3.3 Pin=H5-6
+Added Pin To Net: NetName=+3.3 Pin=R1-1
+Added Pin To Net: NetName=+3.3 Pin=R15-1
+Added Pin To Net: NetName=+3.3 Pin=R17-2
+Added Pin To Net: NetName=+3.3 Pin=R33-2
+Added Pin To Net: NetName=+3.3 Pin=R48-2
+Added Pin To Net: NetName=+3.3 Pin=R49-2
+Added Pin To Net: NetName=+3.3 Pin=R64-2
+Added Pin To Net: NetName=+3.3 Pin=R102-1
+Added Pin To Net: NetName=+3.3 Pin=U1-2
+Added Pin To Net: NetName=+3.3 Pin=U3-2
+Added Pin To Net: NetName=+3.3 Pin=U7-2
+Added Pin To Net: NetName=+3.3 Pin=U8-1
+Added Pin To Net: NetName=+3.3 Pin=U13-2
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5.0 Pin=C3-1
+Added Pin To Net: NetName=+5.0 Pin=C7-1
+Added Pin To Net: NetName=+5.0 Pin=C17-1
+Added Pin To Net: NetName=+5.0 Pin=C32-1
+Added Pin To Net: NetName=+5.0 Pin=C37-1
+Added Pin To Net: NetName=+5.0 Pin=H3-1
+Added Pin To Net: NetName=+5.0 Pin=H3-2
+Added Pin To Net: NetName=+5.0 Pin=H3-3
+Added Pin To Net: NetName=+5.0 Pin=H3-4
+Added Pin To Net: NetName=+5.0 Pin=H3-5
+Added Pin To Net: NetName=+5.0 Pin=H3-6
+Added Pin To Net: NetName=+5.0 Pin=H11-1
+Added Pin To Net: NetName=+5.0 Pin=H15-1
+Added Pin To Net: NetName=+5.0 Pin=U2-3
+Added Pin To Net: NetName=+5.0 Pin=U4-2
+Added Pin To Net: NetName=+5.0 Pin=U6-10
+Added Pin To Net: NetName=+5.0 Pin=U6-16
+Added Pin To Net: NetName=+5.0 Pin=U8-14
+Added Pin To Net: NetName=+5.0 Pin=U9-10
+Added Pin To Net: NetName=+5.0 Pin=U9-16
+Added Net: Name=+5.0
+Added Pin To Net: NetName=+12.0 Pin=C4-1
+Added Pin To Net: NetName=+12.0 Pin=C6-1
+Added Pin To Net: NetName=+12.0 Pin=F1-2
+Added Pin To Net: NetName=+12.0 Pin=H1-1
+Added Pin To Net: NetName=+12.0 Pin=H1-2
+Added Pin To Net: NetName=+12.0 Pin=H1-3
+Added Pin To Net: NetName=+12.0 Pin=H1-4
+Added Pin To Net: NetName=+12.0 Pin=H1-5
+Added Pin To Net: NetName=+12.0 Pin=H1-6
+Added Pin To Net: NetName=+12.0 Pin=U1-3
+Added Pin To Net: NetName=+12.0 Pin=U2-1
+Added Net: Name=+12.0
+Added Pin To Net: NetName=3V3 Pin=C39-1
+Added Pin To Net: NetName=3V3 Pin=FB2-1
+Added Pin To Net: NetName=3V3 Pin=H4-1
+Added Pin To Net: NetName=3V3 Pin=IC3-10
+Added Pin To Net: NetName=3V3 Pin=IC3-26
+Added Pin To Net: NetName=3V3 Pin=IC3-30
+Added Pin To Net: NetName=3V3 Pin=IC3-39
+Added Pin To Net: NetName=3V3 Pin=IC3-51
+Added Pin To Net: NetName=3V3 Pin=IC3-61
+Added Pin To Net: NetName=3V3 Pin=R40-1
+Added Pin To Net: NetName=3V3 Pin=R42-1
+Added Pin To Net: NetName=3V3 Pin=R45-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=AP_DTR Pin=IC3-38
+Added Pin To Net: NetName=AP_DTR Pin=Q2-2
+Added Pin To Net: NetName=AP_DTR Pin=R2-1
+Added Net: Name=AP_DTR
+Added Pin To Net: NetName=AP_EN Pin=C10-1
+Added Pin To Net: NetName=AP_EN Pin=D22-2
+Added Pin To Net: NetName=AP_EN Pin=D23-2
+Added Pin To Net: NetName=AP_EN Pin=R1-2
+Added Pin To Net: NetName=AP_EN Pin=U7-3
+Added Net: Name=AP_EN
+Added Pin To Net: NetName=AP_EN_AUTO Pin=D23-1
+Added Pin To Net: NetName=AP_EN_AUTO Pin=Q1-3
+Added Net: Name=AP_EN_AUTO
+Added Pin To Net: NetName=AP_EN_KEY Pin=C12-2
+Added Pin To Net: NetName=AP_EN_KEY Pin=D22-1
+Added Pin To Net: NetName=AP_EN_KEY Pin=H6-2
+Added Pin To Net: NetName=AP_EN_KEY Pin=SW5-3
+Added Pin To Net: NetName=AP_EN_KEY Pin=SW5-4
+Added Net: Name=AP_EN_KEY
+Added Pin To Net: NetName=AP_GPIO0 Pin=D24-2
+Added Pin To Net: NetName=AP_GPIO0 Pin=D25-2
+Added Pin To Net: NetName=AP_GPIO0 Pin=H26-10
+Added Pin To Net: NetName=AP_GPIO0 Pin=R17-1
+Added Pin To Net: NetName=AP_GPIO0 Pin=U7-25
+Added Net: Name=AP_GPIO0
+Added Pin To Net: NetName=AP_GPIO2 Pin=H26-11
+Added Pin To Net: NetName=AP_GPIO2 Pin=U7-24
+Added Net: Name=AP_GPIO2
+Added Pin To Net: NetName=AP_GPIO4 Pin=H26-9
+Added Pin To Net: NetName=AP_GPIO4 Pin=U7-26
+Added Net: Name=AP_GPIO4
+Added Pin To Net: NetName=AP_GPIO5 Pin=H26-6
+Added Pin To Net: NetName=AP_GPIO5 Pin=U7-29
+Added Net: Name=AP_GPIO5
+Added Pin To Net: NetName=AP_GPIO12 Pin=H25-11
+Added Pin To Net: NetName=AP_GPIO12 Pin=U7-14
+Added Net: Name=AP_GPIO12
+Added Pin To Net: NetName=AP_GPIO13 Pin=H25-12
+Added Pin To Net: NetName=AP_GPIO13 Pin=U7-16
+Added Net: Name=AP_GPIO13
+Added Pin To Net: NetName=AP_GPIO14 Pin=H25-10
+Added Pin To Net: NetName=AP_GPIO14 Pin=U7-13
+Added Net: Name=AP_GPIO14
+Added Pin To Net: NetName=AP_GPIO15 Pin=H26-12
+Added Pin To Net: NetName=AP_GPIO15 Pin=U7-23
+Added Net: Name=AP_GPIO15
+Added Pin To Net: NetName=AP_GPIO16 Pin=H26-8
+Added Pin To Net: NetName=AP_GPIO16 Pin=U7-27
+Added Net: Name=AP_GPIO16
+Added Pin To Net: NetName=AP_GPIO17 Pin=H26-7
+Added Pin To Net: NetName=AP_GPIO17 Pin=U7-28
+Added Net: Name=AP_GPIO17
+Added Pin To Net: NetName=AP_GPIO18 Pin=H26-5
+Added Pin To Net: NetName=AP_GPIO18 Pin=U7-30
+Added Net: Name=AP_GPIO18
+Added Pin To Net: NetName=AP_GPIO19 Pin=H26-4
+Added Pin To Net: NetName=AP_GPIO19 Pin=U7-31
+Added Net: Name=AP_GPIO19
+Added Pin To Net: NetName=AP_GPIO21 Pin=H26-3
+Added Pin To Net: NetName=AP_GPIO21 Pin=U7-33
+Added Net: Name=AP_GPIO21
+Added Pin To Net: NetName=AP_GPIO22 Pin=H26-2
+Added Pin To Net: NetName=AP_GPIO22 Pin=U7-36
+Added Net: Name=AP_GPIO22
+Added Pin To Net: NetName=AP_GPIO23 Pin=H26-1
+Added Pin To Net: NetName=AP_GPIO23 Pin=U7-37
+Added Net: Name=AP_GPIO23
+Added Pin To Net: NetName=AP_GPIO25 Pin=H25-7
+Added Pin To Net: NetName=AP_GPIO25 Pin=U7-10
+Added Net: Name=AP_GPIO25
+Added Pin To Net: NetName=AP_GPIO26 Pin=H25-8
+Added Pin To Net: NetName=AP_GPIO26 Pin=U7-11
+Added Net: Name=AP_GPIO26
+Added Pin To Net: NetName=AP_GPIO27 Pin=H25-9
+Added Pin To Net: NetName=AP_GPIO27 Pin=U7-12
+Added Net: Name=AP_GPIO27
+Added Pin To Net: NetName=AP_GPIO32 Pin=H25-5
+Added Pin To Net: NetName=AP_GPIO32 Pin=U7-8
+Added Net: Name=AP_GPIO32
+Added Pin To Net: NetName=AP_GPIO33 Pin=H25-6
+Added Pin To Net: NetName=AP_GPIO33 Pin=U7-9
+Added Net: Name=AP_GPIO33
+Added Pin To Net: NetName=AP_GPIO34 Pin=H25-3
+Added Pin To Net: NetName=AP_GPIO34 Pin=U7-6
+Added Net: Name=AP_GPIO34
+Added Pin To Net: NetName=AP_GPIO35 Pin=H25-4
+Added Pin To Net: NetName=AP_GPIO35 Pin=U7-7
+Added Net: Name=AP_GPIO35
+Added Pin To Net: NetName=AP_GPIO36 Pin=H25-1
+Added Pin To Net: NetName=AP_GPIO36 Pin=U7-4
+Added Net: Name=AP_GPIO36
+Added Pin To Net: NetName=AP_GPIO39 Pin=H25-2
+Added Pin To Net: NetName=AP_GPIO39 Pin=U7-5
+Added Net: Name=AP_GPIO39
+Added Pin To Net: NetName=AP_IO0_AUTO Pin=D25-1
+Added Pin To Net: NetName=AP_IO0_AUTO Pin=Q2-3
+Added Net: Name=AP_IO0_AUTO
+Added Pin To Net: NetName=AP_IO0_KEY Pin=D24-1
+Added Pin To Net: NetName=AP_IO0_KEY Pin=H24-2
+Added Pin To Net: NetName=AP_IO0_KEY Pin=SW6-3
+Added Pin To Net: NetName=AP_IO0_KEY Pin=SW6-4
+Added Net: Name=AP_IO0_KEY
+Added Pin To Net: NetName=AP_RTS Pin=IC3-36
+Added Pin To Net: NetName=AP_RTS Pin=Q1-2
+Added Pin To Net: NetName=AP_RTS Pin=R3-1
+Added Net: Name=AP_RTS
+Added Pin To Net: NetName=AP_RXD Pin=IC3-35
+Added Pin To Net: NetName=AP_RXD Pin=R108-1
+Added Net: Name=AP_RXD
+Added Pin To Net: NetName=AP_TXD Pin=IC3-34
+Added Pin To Net: NetName=AP_TXD Pin=R107-1
+Added Net: Name=AP_TXD
+Added Pin To Net: NetName=AP_U0RXD Pin=R107-2
+Added Pin To Net: NetName=AP_U0RXD Pin=U7-34
+Added Net: Name=AP_U0RXD
+Added Pin To Net: NetName=AP_U0TXD Pin=R108-2
+Added Pin To Net: NetName=AP_U0TXD Pin=U7-35
+Added Net: Name=AP_U0TXD
+Added Pin To Net: NetName=CLIENT_DTR Pin=IC3-21
+Added Pin To Net: NetName=CLIENT_DTR Pin=Q6-2
+Added Pin To Net: NetName=CLIENT_DTR Pin=R47-1
+Added Net: Name=CLIENT_DTR
+Added Pin To Net: NetName=CLIENT_EN Pin=C16-1
+Added Pin To Net: NetName=CLIENT_EN Pin=D14-2
+Added Pin To Net: NetName=CLIENT_EN Pin=D15-2
+Added Pin To Net: NetName=CLIENT_EN Pin=R15-2
+Added Pin To Net: NetName=CLIENT_EN Pin=U3-3
+Added Net: Name=CLIENT_EN
+Added Pin To Net: NetName=CLIENT_EN_AUTO Pin=D15-1
+Added Pin To Net: NetName=CLIENT_EN_AUTO Pin=Q4-3
+Added Net: Name=CLIENT_EN_AUTO
+Added Pin To Net: NetName=CLIENT_EN_KEY Pin=C35-2
+Added Pin To Net: NetName=CLIENT_EN_KEY Pin=D14-1
+Added Pin To Net: NetName=CLIENT_EN_KEY Pin=H19-2
+Added Pin To Net: NetName=CLIENT_EN_KEY Pin=SW1-3
+Added Pin To Net: NetName=CLIENT_EN_KEY Pin=SW1-4
+Added Net: Name=CLIENT_EN_KEY
+Added Pin To Net: NetName=CLIENT_GPIO0 Pin=D16-2
+Added Pin To Net: NetName=CLIENT_GPIO0 Pin=D17-2
+Added Pin To Net: NetName=CLIENT_GPIO0 Pin=H9-10
+Added Pin To Net: NetName=CLIENT_GPIO0 Pin=R49-1
+Added Pin To Net: NetName=CLIENT_GPIO0 Pin=U3-25
+Added Net: Name=CLIENT_GPIO0
+Added Pin To Net: NetName=CLIENT_GPIO2 Pin=H9-11
+Added Pin To Net: NetName=CLIENT_GPIO2 Pin=U3-24
+Added Net: Name=CLIENT_GPIO2
+Added Pin To Net: NetName=CLIENT_GPIO4 Pin=H9-9
+Added Pin To Net: NetName=CLIENT_GPIO4 Pin=U3-26
+Added Net: Name=CLIENT_GPIO4
+Added Pin To Net: NetName=CLIENT_GPIO5 Pin=H9-6
+Added Pin To Net: NetName=CLIENT_GPIO5 Pin=U3-29
+Added Net: Name=CLIENT_GPIO5
+Added Pin To Net: NetName=CLIENT_GPIO12 Pin=H7-11
+Added Pin To Net: NetName=CLIENT_GPIO12 Pin=U3-14
+Added Net: Name=CLIENT_GPIO12
+Added Pin To Net: NetName=CLIENT_GPIO13 Pin=H7-12
+Added Pin To Net: NetName=CLIENT_GPIO13 Pin=U3-16
+Added Net: Name=CLIENT_GPIO13
+Added Pin To Net: NetName=CLIENT_GPIO14 Pin=H7-10
+Added Pin To Net: NetName=CLIENT_GPIO14 Pin=U3-13
+Added Net: Name=CLIENT_GPIO14
+Added Pin To Net: NetName=CLIENT_GPIO15 Pin=H9-12
+Added Pin To Net: NetName=CLIENT_GPIO15 Pin=U3-23
+Added Net: Name=CLIENT_GPIO15
+Added Pin To Net: NetName=CLIENT_GPIO16 Pin=H9-8
+Added Pin To Net: NetName=CLIENT_GPIO16 Pin=U3-27
+Added Net: Name=CLIENT_GPIO16
+Added Pin To Net: NetName=CLIENT_GPIO17 Pin=H9-7
+Added Pin To Net: NetName=CLIENT_GPIO17 Pin=U3-28
+Added Net: Name=CLIENT_GPIO17
+Added Pin To Net: NetName=CLIENT_GPIO18 Pin=H9-5
+Added Pin To Net: NetName=CLIENT_GPIO18 Pin=U3-30
+Added Net: Name=CLIENT_GPIO18
+Added Pin To Net: NetName=CLIENT_GPIO19 Pin=H9-4
+Added Pin To Net: NetName=CLIENT_GPIO19 Pin=U3-31
+Added Net: Name=CLIENT_GPIO19
+Added Pin To Net: NetName=CLIENT_GPIO21 Pin=H4-3
+Added Pin To Net: NetName=CLIENT_GPIO21 Pin=H9-3
+Added Pin To Net: NetName=CLIENT_GPIO21 Pin=U3-33
+Added Net: Name=CLIENT_GPIO21
+Added Pin To Net: NetName=CLIENT_GPIO22 Pin=H4-2
+Added Pin To Net: NetName=CLIENT_GPIO22 Pin=H9-2
+Added Pin To Net: NetName=CLIENT_GPIO22 Pin=U3-36
+Added Net: Name=CLIENT_GPIO22
+Added Pin To Net: NetName=CLIENT_GPIO23 Pin=H9-1
+Added Pin To Net: NetName=CLIENT_GPIO23 Pin=U3-37
+Added Net: Name=CLIENT_GPIO23
+Added Pin To Net: NetName=CLIENT_GPIO25 Pin=H7-7
+Added Pin To Net: NetName=CLIENT_GPIO25 Pin=U3-10
+Added Net: Name=CLIENT_GPIO25
+Added Pin To Net: NetName=CLIENT_GPIO26 Pin=H7-8
+Added Pin To Net: NetName=CLIENT_GPIO26 Pin=U3-11
+Added Net: Name=CLIENT_GPIO26
+Added Pin To Net: NetName=CLIENT_GPIO27 Pin=H7-9
+Added Pin To Net: NetName=CLIENT_GPIO27 Pin=U3-12
+Added Net: Name=CLIENT_GPIO27
+Added Pin To Net: NetName=CLIENT_GPIO32 Pin=H7-5
+Added Pin To Net: NetName=CLIENT_GPIO32 Pin=U3-8
+Added Net: Name=CLIENT_GPIO32
+Added Pin To Net: NetName=CLIENT_GPIO33 Pin=H7-6
+Added Pin To Net: NetName=CLIENT_GPIO33 Pin=U3-9
+Added Net: Name=CLIENT_GPIO33
+Added Pin To Net: NetName=CLIENT_GPIO34 Pin=H7-3
+Added Pin To Net: NetName=CLIENT_GPIO34 Pin=U3-6
+Added Net: Name=CLIENT_GPIO34
+Added Pin To Net: NetName=CLIENT_GPIO35 Pin=H7-4
+Added Pin To Net: NetName=CLIENT_GPIO35 Pin=U3-7
+Added Net: Name=CLIENT_GPIO35
+Added Pin To Net: NetName=CLIENT_GPIO36 Pin=H7-1
+Added Pin To Net: NetName=CLIENT_GPIO36 Pin=U3-4
+Added Net: Name=CLIENT_GPIO36
+Added Pin To Net: NetName=CLIENT_GPIO39 Pin=H7-2
+Added Pin To Net: NetName=CLIENT_GPIO39 Pin=U3-5
+Added Net: Name=CLIENT_GPIO39
+Added Pin To Net: NetName=CLIENT_IO0_AUTO Pin=D17-1
+Added Pin To Net: NetName=CLIENT_IO0_AUTO Pin=Q6-3
+Added Net: Name=CLIENT_IO0_AUTO
+Added Pin To Net: NetName=CLIENT_IO0_KEY Pin=D16-1
+Added Pin To Net: NetName=CLIENT_IO0_KEY Pin=H20-2
+Added Pin To Net: NetName=CLIENT_IO0_KEY Pin=SW2-3
+Added Pin To Net: NetName=CLIENT_IO0_KEY Pin=SW2-4
+Added Net: Name=CLIENT_IO0_KEY
+Added Pin To Net: NetName=CLIENT_RTS Pin=IC3-19
+Added Pin To Net: NetName=CLIENT_RTS Pin=Q4-2
+Added Pin To Net: NetName=CLIENT_RTS Pin=R51-1
+Added Net: Name=CLIENT_RTS
+Added Pin To Net: NetName=CLIENT_RXD Pin=IC3-18
+Added Pin To Net: NetName=CLIENT_RXD Pin=R19-1
+Added Net: Name=CLIENT_RXD
+Added Pin To Net: NetName=CLIENT_TXD Pin=IC3-17
+Added Pin To Net: NetName=CLIENT_TXD Pin=R18-1
+Added Net: Name=CLIENT_TXD
+Added Pin To Net: NetName=CLIENT_U0RXD Pin=R18-2
+Added Pin To Net: NetName=CLIENT_U0RXD Pin=U3-34
+Added Net: Name=CLIENT_U0RXD
+Added Pin To Net: NetName=CLIENT_U0TXD Pin=R19-2
+Added Pin To Net: NetName=CLIENT_U0TXD Pin=U3-35
+Added Net: Name=CLIENT_U0TXD
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H2-5
+Added Pin To Net: NetName=GND Pin=H2-6
+Added Pin To Net: NetName=GND Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H19-1
+Added Pin To Net: NetName=GND Pin=H21-1
+Added Pin To Net: NetName=GND Pin=H22-1
+Added Pin To Net: NetName=GND Pin=H34-1
+Added Pin To Net: NetName=GND Pin=H34-2
+Added Pin To Net: NetName=GND Pin=H34-3
+Added Pin To Net: NetName=GND Pin=H34-4
+Added Pin To Net: NetName=GND Pin=H34-5
+Added Pin To Net: NetName=GND Pin=H34-6
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=GND Pin=IC3-9
+Added Pin To Net: NetName=GND Pin=IC3-29
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=GND Pin=R56-1
+Added Pin To Net: NetName=GND Pin=R65-2
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW5-1
+Added Pin To Net: NetName=GND Pin=SW5-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-38
+Added Pin To Net: NetName=GND Pin=U3-39
+Added Pin To Net: NetName=GND Pin=U3-40
+Added Pin To Net: NetName=GND Pin=U3-41
+Added Pin To Net: NetName=GND Pin=U3-42
+Added Pin To Net: NetName=GND Pin=U3-43
+Added Pin To Net: NetName=GND Pin=U3-44
+Added Pin To Net: NetName=GND Pin=U3-45
+Added Pin To Net: NetName=GND Pin=U3-46
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U7-38
+Added Pin To Net: NetName=GND Pin=U7-39
+Added Pin To Net: NetName=GND Pin=U7-40
+Added Pin To Net: NetName=GND Pin=U7-41
+Added Pin To Net: NetName=GND Pin=U7-42
+Added Pin To Net: NetName=GND Pin=U7-43
+Added Pin To Net: NetName=GND Pin=U7-44
+Added Pin To Net: NetName=GND Pin=U7-45
+Added Pin To Net: NetName=GND Pin=U7-46
+Added Pin To Net: NetName=GND Pin=U7-47
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-15
+Added Pin To Net: NetName=GND Pin=U13-38
+Added Pin To Net: NetName=GND Pin=U13-39
+Added Pin To Net: NetName=GND Pin=U13-40
+Added Pin To Net: NetName=GND Pin=U13-41
+Added Pin To Net: NetName=GND Pin=U13-42
+Added Pin To Net: NetName=GND Pin=U13-43
+Added Pin To Net: NetName=GND Pin=U13-44
+Added Pin To Net: NetName=GND Pin=U13-45
+Added Pin To Net: NetName=GND Pin=U13-46
+Added Pin To Net: NetName=GND Pin=U13-47
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=FB2-2
+Added Pin To Net: NetName=NetC25_1 Pin=IC3-57
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=R54-2
+Added Pin To Net: NetName=NetC43_1 Pin=U10-5
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=NetC46_1 Pin=R68-2
+Added Pin To Net: NetName=NetC46_1 Pin=U10-10
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=R75-2
+Added Pin To Net: NetName=NetC49_1 Pin=U10-12
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=IC3-27
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetC60_1 Pin=C60-1
+Added Pin To Net: NetName=NetC60_1 Pin=IC3-28
+Added Net: Name=NetC60_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D10-2
+Added Pin To Net: NetName=NetD6_2 Pin=J3-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R44-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-2
+Added Pin To Net: NetName=NetF1_1 Pin=J2-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetH20_1 Pin=H20-1
+Added Pin To Net: NetName=NetH20_1 Pin=R50-1
+Added Pin To Net: NetName=NetH20_1 Pin=SW2-1
+Added Pin To Net: NetName=NetH20_1 Pin=SW2-2
+Added Net: Name=NetH20_1
+Added Pin To Net: NetName=NetH21_2 Pin=H21-2
+Added Pin To Net: NetName=NetH21_2 Pin=R48-1
+Added Pin To Net: NetName=NetH21_2 Pin=U8-8
+Added Net: Name=NetH21_2
+Added Pin To Net: NetName=NetH23_1 Pin=H23-1
+Added Pin To Net: NetName=NetH23_1 Pin=R65-1
+Added Pin To Net: NetName=NetH23_1 Pin=SW4-1
+Added Pin To Net: NetName=NetH23_1 Pin=SW4-2
+Added Net: Name=NetH23_1
+Added Pin To Net: NetName=NetH24_1 Pin=H24-1
+Added Pin To Net: NetName=NetH24_1 Pin=R5-1
+Added Pin To Net: NetName=NetH24_1 Pin=SW6-1
+Added Pin To Net: NetName=NetH24_1 Pin=SW6-2
+Added Net: Name=NetH24_1
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_1 Pin=R42-2
+Added Net: Name=NetIC3_1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R40-2
+Added Net: Name=NetIC3_2
+Added Pin To Net: NetName=NetIC3_4 Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_4 Pin=R33-1
+Added Net: Name=NetIC3_4
+Added Pin To Net: NetName=NetIC3_60 Pin=IC3-60
+Added Pin To Net: NetName=NetIC3_60 Pin=R38-1
+Added Net: Name=NetIC3_60
+Added Pin To Net: NetName=NetIC3_68 Pin=IC3-68
+Added Pin To Net: NetName=NetIC3_68 Pin=R45-1
+Added Net: Name=NetIC3_68
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R47-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R51-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R59-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R69-2
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=R57-1
+Added Pin To Net: NetName=NetR56_2 Pin=U10-6
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=R72-1
+Added Pin To Net: NetName=NetR70_2 Pin=U10-9
+Added Net: Name=NetR70_2
+Added Pin To Net: NetName=NetR77_2 Pin=R77-2
+Added Pin To Net: NetName=NetR77_2 Pin=R78-1
+Added Pin To Net: NetName=NetR77_2 Pin=U10-13
+Added Net: Name=NetR77_2
+Added Pin To Net: NetName=NetU6_9 Pin=U6-9
+Added Pin To Net: NetName=NetU6_9 Pin=U9-14
+Added Net: Name=NetU6_9
+Added Pin To Net: NetName=PLC_A_1 Pin=H8-2
+Added Pin To Net: NetName=PLC_A_1 Pin=R57-2
+Added Pin To Net: NetName=PLC_A_1 Pin=R57-3
+Added Pin To Net: NetName=PLC_A_1 Pin=U4-4
+Added Pin To Net: NetName=PLC_A_1 Pin=U10-7
+Added Net: Name=PLC_A_1
+Added Pin To Net: NetName=PLC_A_2 Pin=H8-3
+Added Pin To Net: NetName=PLC_A_2 Pin=R72-2
+Added Pin To Net: NetName=PLC_A_2 Pin=R72-3
+Added Pin To Net: NetName=PLC_A_2 Pin=U4-5
+Added Pin To Net: NetName=PLC_A_2 Pin=U10-8
+Added Net: Name=PLC_A_2
+Added Pin To Net: NetName=PLC_A_3 Pin=H8-4
+Added Pin To Net: NetName=PLC_A_3 Pin=R78-2
+Added Pin To Net: NetName=PLC_A_3 Pin=R78-3
+Added Pin To Net: NetName=PLC_A_3 Pin=U4-6
+Added Pin To Net: NetName=PLC_A_3 Pin=U10-14
+Added Net: Name=PLC_A_3
+Added Pin To Net: NetName=PLC_A_GND Pin=H8-1
+Added Pin To Net: NetName=PLC_A_GND Pin=U4-3
+Added Net: Name=PLC_A_GND
+Added Pin To Net: NetName=PLC_A_RS_GND Pin=H10-3
+Added Pin To Net: NetName=PLC_A_RS_GND Pin=U4-9
+Added Net: Name=PLC_A_RS_GND
+Added Pin To Net: NetName=PLC_A_RS_RX Pin=H10-1
+Added Pin To Net: NetName=PLC_A_RS_RX Pin=U4-7
+Added Net: Name=PLC_A_RS_RX
+Added Pin To Net: NetName=PLC_A_RS_TX Pin=H10-2
+Added Pin To Net: NetName=PLC_A_RS_TX Pin=U4-8
+Added Net: Name=PLC_A_RS_TX
+Added Pin To Net: NetName=PLC_B_1 Pin=H13-2
+Added Pin To Net: NetName=PLC_B_1 Pin=U4-11
+Added Pin To Net: NetName=PLC_B_1 Pin=U6-1
+Added Net: Name=PLC_B_1
+Added Pin To Net: NetName=PLC_B_2 Pin=H13-3
+Added Pin To Net: NetName=PLC_B_2 Pin=U4-12
+Added Pin To Net: NetName=PLC_B_2 Pin=U6-2
+Added Net: Name=PLC_B_2
+Added Pin To Net: NetName=PLC_B_3 Pin=H13-4
+Added Pin To Net: NetName=PLC_B_3 Pin=U4-13
+Added Pin To Net: NetName=PLC_B_3 Pin=U6-3
+Added Net: Name=PLC_B_3
+Added Pin To Net: NetName=PLC_B_4 Pin=H13-5
+Added Pin To Net: NetName=PLC_B_4 Pin=U4-14
+Added Pin To Net: NetName=PLC_B_4 Pin=U6-4
+Added Net: Name=PLC_B_4
+Added Pin To Net: NetName=PLC_B_5 Pin=H13-6
+Added Pin To Net: NetName=PLC_B_5 Pin=U4-15
+Added Pin To Net: NetName=PLC_B_5 Pin=U6-5
+Added Net: Name=PLC_B_5
+Added Pin To Net: NetName=PLC_B_6 Pin=H13-7
+Added Pin To Net: NetName=PLC_B_6 Pin=U4-16
+Added Pin To Net: NetName=PLC_B_6 Pin=U6-6
+Added Net: Name=PLC_B_6
+Added Pin To Net: NetName=PLC_B_GND Pin=H13-1
+Added Pin To Net: NetName=PLC_B_GND Pin=U4-10
+Added Net: Name=PLC_B_GND
+Added Pin To Net: NetName=PLC_B_VI Pin=H13-8
+Added Pin To Net: NetName=PLC_B_VI Pin=U4-17
+Added Net: Name=PLC_B_VI
+Added Pin To Net: NetName=PLC_C_1 Pin=H16-2
+Added Pin To Net: NetName=PLC_C_1 Pin=U4-19
+Added Pin To Net: NetName=PLC_C_1 Pin=U6-7
+Added Net: Name=PLC_C_1
+Added Pin To Net: NetName=PLC_C_2 Pin=H16-3
+Added Pin To Net: NetName=PLC_C_2 Pin=U4-20
+Added Pin To Net: NetName=PLC_C_2 Pin=U9-1
+Added Net: Name=PLC_C_2
+Added Pin To Net: NetName=PLC_C_3 Pin=H16-4
+Added Pin To Net: NetName=PLC_C_3 Pin=U4-21
+Added Pin To Net: NetName=PLC_C_3 Pin=U9-2
+Added Net: Name=PLC_C_3
+Added Pin To Net: NetName=PLC_C_4 Pin=H16-5
+Added Pin To Net: NetName=PLC_C_4 Pin=U4-22
+Added Pin To Net: NetName=PLC_C_4 Pin=U9-3
+Added Net: Name=PLC_C_4
+Added Pin To Net: NetName=PLC_C_5 Pin=H16-6
+Added Pin To Net: NetName=PLC_C_5 Pin=U4-23
+Added Pin To Net: NetName=PLC_C_5 Pin=U9-4
+Added Net: Name=PLC_C_5
+Added Pin To Net: NetName=PLC_C_6 Pin=H16-7
+Added Pin To Net: NetName=PLC_C_6 Pin=U4-24
+Added Pin To Net: NetName=PLC_C_6 Pin=U9-5
+Added Net: Name=PLC_C_6
+Added Pin To Net: NetName=PLC_C_GND Pin=H16-1
+Added Pin To Net: NetName=PLC_C_GND Pin=U4-18
+Added Net: Name=PLC_C_GND
+Added Pin To Net: NetName=PLC_C_VI2 Pin=H16-8
+Added Pin To Net: NetName=PLC_C_VI2 Pin=U4-25
+Added Net: Name=PLC_C_VI2
+Added Pin To Net: NetName=PLC_D_1 Pin=H17-2
+Added Pin To Net: NetName=PLC_D_1 Pin=U4-27
+Added Net: Name=PLC_D_1
+Added Pin To Net: NetName=PLC_D_2 Pin=H17-3
+Added Pin To Net: NetName=PLC_D_2 Pin=U4-28
+Added Net: Name=PLC_D_2
+Added Pin To Net: NetName=PLC_D_3 Pin=H17-4
+Added Pin To Net: NetName=PLC_D_3 Pin=U4-29
+Added Net: Name=PLC_D_3
+Added Pin To Net: NetName=PLC_D_4 Pin=H17-5
+Added Pin To Net: NetName=PLC_D_4 Pin=U4-30
+Added Net: Name=PLC_D_4
+Added Pin To Net: NetName=PLC_D_5 Pin=H17-6
+Added Pin To Net: NetName=PLC_D_5 Pin=U4-31
+Added Net: Name=PLC_D_5
+Added Pin To Net: NetName=PLC_D_6 Pin=H17-7
+Added Pin To Net: NetName=PLC_D_6 Pin=U4-32
+Added Net: Name=PLC_D_6
+Added Pin To Net: NetName=PLC_D_GND Pin=H17-1
+Added Pin To Net: NetName=PLC_D_GND Pin=U4-26
+Added Net: Name=PLC_D_GND
+Added Pin To Net: NetName=PLC_D_VO1 Pin=H15-2
+Added Pin To Net: NetName=PLC_D_VO1 Pin=H17-8
+Added Pin To Net: NetName=PLC_D_VO1 Pin=U4-33
+Added Net: Name=PLC_D_VO1
+Added Pin To Net: NetName=PLC_DS Pin=U6-14
+Added Pin To Net: NetName=PLC_DS Pin=U8-10
+Added Net: Name=PLC_DS
+Added Pin To Net: NetName=PLC_E_1 Pin=H12-2
+Added Pin To Net: NetName=PLC_E_1 Pin=U4-35
+Added Net: Name=PLC_E_1
+Added Pin To Net: NetName=PLC_E_2 Pin=H12-3
+Added Pin To Net: NetName=PLC_E_2 Pin=U4-36
+Added Net: Name=PLC_E_2
+Added Pin To Net: NetName=PLC_E_3 Pin=H12-4
+Added Pin To Net: NetName=PLC_E_3 Pin=U4-37
+Added Net: Name=PLC_E_3
+Added Pin To Net: NetName=PLC_E_4 Pin=H12-5
+Added Pin To Net: NetName=PLC_E_4 Pin=U4-38
+Added Net: Name=PLC_E_4
+Added Pin To Net: NetName=PLC_E_5 Pin=H12-6
+Added Pin To Net: NetName=PLC_E_5 Pin=U4-39
+Added Net: Name=PLC_E_5
+Added Pin To Net: NetName=PLC_E_6 Pin=H12-7
+Added Pin To Net: NetName=PLC_E_6 Pin=U4-40
+Added Net: Name=PLC_E_6
+Added Pin To Net: NetName=PLC_E_GND Pin=H12-1
+Added Pin To Net: NetName=PLC_E_GND Pin=U4-34
+Added Net: Name=PLC_E_GND
+Added Pin To Net: NetName=PLC_E_VO2 Pin=H11-2
+Added Pin To Net: NetName=PLC_E_VO2 Pin=H12-8
+Added Pin To Net: NetName=PLC_E_VO2 Pin=U4-41
+Added Net: Name=PLC_E_VO2
+Added Pin To Net: NetName=PLC_OE Pin=U6-13
+Added Pin To Net: NetName=PLC_OE Pin=U8-11
+Added Pin To Net: NetName=PLC_OE Pin=U9-13
+Added Net: Name=PLC_OE
+Added Pin To Net: NetName=PLC_SH_CP Pin=U6-11
+Added Pin To Net: NetName=PLC_SH_CP Pin=U8-13
+Added Pin To Net: NetName=PLC_SH_CP Pin=U9-11
+Added Net: Name=PLC_SH_CP
+Added Pin To Net: NetName=PLC_ST_CP Pin=U6-12
+Added Pin To Net: NetName=PLC_ST_CP Pin=U8-12
+Added Pin To Net: NetName=PLC_ST_CP Pin=U9-12
+Added Net: Name=PLC_ST_CP
+Added Pin To Net: NetName=SERVER_DTR Pin=IC3-13
+Added Pin To Net: NetName=SERVER_DTR Pin=Q8-2
+Added Pin To Net: NetName=SERVER_DTR Pin=R59-1
+Added Net: Name=SERVER_DTR
+Added Pin To Net: NetName=SERVER_EN Pin=C52-1
+Added Pin To Net: NetName=SERVER_EN Pin=D18-2
+Added Pin To Net: NetName=SERVER_EN Pin=D19-2
+Added Pin To Net: NetName=SERVER_EN Pin=R102-2
+Added Pin To Net: NetName=SERVER_EN Pin=U13-3
+Added Net: Name=SERVER_EN
+Added Pin To Net: NetName=SERVER_EN_AUTO Pin=D19-1
+Added Pin To Net: NetName=SERVER_EN_AUTO Pin=Q7-3
+Added Net: Name=SERVER_EN_AUTO
+Added Pin To Net: NetName=SERVER_EN_KEY Pin=C45-2
+Added Pin To Net: NetName=SERVER_EN_KEY Pin=D18-1
+Added Pin To Net: NetName=SERVER_EN_KEY Pin=H22-2
+Added Pin To Net: NetName=SERVER_EN_KEY Pin=SW3-3
+Added Pin To Net: NetName=SERVER_EN_KEY Pin=SW3-4
+Added Net: Name=SERVER_EN_KEY
+Added Pin To Net: NetName=SERVER_GPIO0 Pin=D20-2
+Added Pin To Net: NetName=SERVER_GPIO0 Pin=D21-2
+Added Pin To Net: NetName=SERVER_GPIO0 Pin=H18-10
+Added Pin To Net: NetName=SERVER_GPIO0 Pin=R64-1
+Added Pin To Net: NetName=SERVER_GPIO0 Pin=U13-25
+Added Net: Name=SERVER_GPIO0
+Added Pin To Net: NetName=SERVER_GPIO2 Pin=H18-11
+Added Pin To Net: NetName=SERVER_GPIO2 Pin=U13-24
+Added Net: Name=SERVER_GPIO2
+Added Pin To Net: NetName=SERVER_GPIO4 Pin=H18-9
+Added Pin To Net: NetName=SERVER_GPIO4 Pin=U13-26
+Added Net: Name=SERVER_GPIO4
+Added Pin To Net: NetName=SERVER_GPIO5 Pin=H18-6
+Added Pin To Net: NetName=SERVER_GPIO5 Pin=U13-29
+Added Net: Name=SERVER_GPIO5
+Added Pin To Net: NetName=SERVER_GPIO12 Pin=H14-11
+Added Pin To Net: NetName=SERVER_GPIO12 Pin=U8-3
+Added Pin To Net: NetName=SERVER_GPIO12 Pin=U13-14
+Added Net: Name=SERVER_GPIO12
+Added Pin To Net: NetName=SERVER_GPIO13 Pin=H14-12
+Added Pin To Net: NetName=SERVER_GPIO13 Pin=U8-2
+Added Pin To Net: NetName=SERVER_GPIO13 Pin=U13-16
+Added Net: Name=SERVER_GPIO13
+Added Pin To Net: NetName=SERVER_GPIO14 Pin=H14-10
+Added Pin To Net: NetName=SERVER_GPIO14 Pin=U8-4
+Added Pin To Net: NetName=SERVER_GPIO14 Pin=U13-13
+Added Net: Name=SERVER_GPIO14
+Added Pin To Net: NetName=SERVER_GPIO15 Pin=H18-12
+Added Pin To Net: NetName=SERVER_GPIO15 Pin=U8-5
+Added Pin To Net: NetName=SERVER_GPIO15 Pin=U13-23
+Added Net: Name=SERVER_GPIO15
+Added Pin To Net: NetName=SERVER_GPIO16 Pin=H18-8
+Added Pin To Net: NetName=SERVER_GPIO16 Pin=R54-1
+Added Pin To Net: NetName=SERVER_GPIO16 Pin=U13-27
+Added Net: Name=SERVER_GPIO16
+Added Pin To Net: NetName=SERVER_GPIO17 Pin=H18-7
+Added Pin To Net: NetName=SERVER_GPIO17 Pin=U13-28
+Added Net: Name=SERVER_GPIO17
+Added Pin To Net: NetName=SERVER_GPIO18 Pin=H18-5
+Added Pin To Net: NetName=SERVER_GPIO18 Pin=U13-30
+Added Net: Name=SERVER_GPIO18
+Added Pin To Net: NetName=SERVER_GPIO19 Pin=H18-4
+Added Pin To Net: NetName=SERVER_GPIO19 Pin=U13-31
+Added Net: Name=SERVER_GPIO19
+Added Pin To Net: NetName=SERVER_GPIO21 Pin=H18-3
+Added Pin To Net: NetName=SERVER_GPIO21 Pin=U13-33
+Added Net: Name=SERVER_GPIO21
+Added Pin To Net: NetName=SERVER_GPIO22 Pin=H18-2
+Added Pin To Net: NetName=SERVER_GPIO22 Pin=U13-36
+Added Net: Name=SERVER_GPIO22
+Added Pin To Net: NetName=SERVER_GPIO23 Pin=H18-1
+Added Pin To Net: NetName=SERVER_GPIO23 Pin=U13-37
+Added Net: Name=SERVER_GPIO23
+Added Pin To Net: NetName=SERVER_GPIO25 Pin=H14-7
+Added Pin To Net: NetName=SERVER_GPIO25 Pin=U13-10
+Added Net: Name=SERVER_GPIO25
+Added Pin To Net: NetName=SERVER_GPIO26 Pin=H14-8
+Added Pin To Net: NetName=SERVER_GPIO26 Pin=U13-11
+Added Net: Name=SERVER_GPIO26
+Added Pin To Net: NetName=SERVER_GPIO27 Pin=H14-9
+Added Pin To Net: NetName=SERVER_GPIO27 Pin=U13-12
+Added Net: Name=SERVER_GPIO27
+Added Pin To Net: NetName=SERVER_GPIO32 Pin=H14-5
+Added Pin To Net: NetName=SERVER_GPIO32 Pin=R75-1
+Added Pin To Net: NetName=SERVER_GPIO32 Pin=U13-8
+Added Net: Name=SERVER_GPIO32
+Added Pin To Net: NetName=SERVER_GPIO33 Pin=H14-6
+Added Pin To Net: NetName=SERVER_GPIO33 Pin=R68-1
+Added Pin To Net: NetName=SERVER_GPIO33 Pin=U13-9
+Added Net: Name=SERVER_GPIO33
+Added Pin To Net: NetName=SERVER_GPIO34 Pin=H14-3
+Added Pin To Net: NetName=SERVER_GPIO34 Pin=U13-6
+Added Net: Name=SERVER_GPIO34
+Added Pin To Net: NetName=SERVER_GPIO35 Pin=H14-4
+Added Pin To Net: NetName=SERVER_GPIO35 Pin=U13-7
+Added Net: Name=SERVER_GPIO35
+Added Pin To Net: NetName=SERVER_GPIO36 Pin=H14-1
+Added Pin To Net: NetName=SERVER_GPIO36 Pin=U13-4
+Added Net: Name=SERVER_GPIO36
+Added Pin To Net: NetName=SERVER_GPIO39 Pin=H14-2
+Added Pin To Net: NetName=SERVER_GPIO39 Pin=U13-5
+Added Net: Name=SERVER_GPIO39
+Added Pin To Net: NetName=SERVER_IO0_AUTO Pin=D21-1
+Added Pin To Net: NetName=SERVER_IO0_AUTO Pin=Q8-3
+Added Net: Name=SERVER_IO0_AUTO
+Added Pin To Net: NetName=SERVER_IO0_KEY Pin=D20-1
+Added Pin To Net: NetName=SERVER_IO0_KEY Pin=H23-2
+Added Pin To Net: NetName=SERVER_IO0_KEY Pin=SW4-3
+Added Pin To Net: NetName=SERVER_IO0_KEY Pin=SW4-4
+Added Net: Name=SERVER_IO0_KEY
+Added Pin To Net: NetName=SERVER_RTS Pin=IC3-11
+Added Pin To Net: NetName=SERVER_RTS Pin=Q7-2
+Added Pin To Net: NetName=SERVER_RTS Pin=R69-1
+Added Net: Name=SERVER_RTS
+Added Pin To Net: NetName=SERVER_RXD Pin=IC3-7
+Added Pin To Net: NetName=SERVER_RXD Pin=R106-1
+Added Net: Name=SERVER_RXD
+Added Pin To Net: NetName=SERVER_TXD Pin=IC3-6
+Added Pin To Net: NetName=SERVER_TXD Pin=R105-1
+Added Net: Name=SERVER_TXD
+Added Pin To Net: NetName=SERVER_U0RXD Pin=R105-2
+Added Pin To Net: NetName=SERVER_U0RXD Pin=U13-34
+Added Net: Name=SERVER_U0RXD
+Added Pin To Net: NetName=SERVER_U0TXD Pin=R106-2
+Added Pin To Net: NetName=SERVER_U0TXD Pin=U13-35
+Added Net: Name=SERVER_U0TXD
+Added Pin To Net: NetName=USB_N Pin=D9-2
+Added Pin To Net: NetName=USB_N Pin=IC3-58
+Added Pin To Net: NetName=USB_N Pin=J3-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=D8-2
+Added Pin To Net: NetName=USB_P Pin=IC3-59
+Added Pin To Net: NetName=USB_P Pin=J3-3
+Added Net: Name=USB_P
+Added Pin To Net: NetName=USB_VBUS Pin=D6-1
+Added Pin To Net: NetName=USB_VBUS Pin=R44-2
+Added Net: Name=USB_VBUS
+Added Pin To Net: NetName=VREGOUT_NET Pin=C38-1
+Added Pin To Net: NetName=VREGOUT_NET Pin=IC3-8
+Added Pin To Net: NetName=VREGOUT_NET Pin=IC3-25
+Added Pin To Net: NetName=VREGOUT_NET Pin=IC3-31
+Added Pin To Net: NetName=VREGOUT_NET Pin=IC3-44
+Added Pin To Net: NetName=VREGOUT_NET Pin=IC3-66
+Added Net: Name=VREGOUT_NET
+Added Class: Name=ResearchProject_V3_schematic
+Added Differential Pair: Name=USB
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5

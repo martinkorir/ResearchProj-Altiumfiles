@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [ResearchProject_V3.PrjPcb]
+   Generated File[ResearchProject_V3_schematic.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:56:16 PM On 9/14/2026

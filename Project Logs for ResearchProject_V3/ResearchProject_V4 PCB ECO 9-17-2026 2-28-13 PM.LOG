@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetCN1_A5 Pin=R82-1
+Removed Pin From Net: NetName=GND Pin=R82-2
+Removed Member From Class: ClassName=ResearchProject_V3_schematic Member=R82
+Added Component: Designator=R88(RESC0805)
+Added Pin To Net: NetName=NetCN1_A5 Pin=R88-1
+Added Pin To Net: NetName=GND Pin=R88-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component R88 5.11k
+Add Class Member: Failed to add class member : Component X1 Crystal
