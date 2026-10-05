@@ -1,0 +1,36 @@
+Added Component: Designator=C26(CAP0402)
+Added Component: Designator=C27(CAP0402)
+Added Component: Designator=C28(CAP0402)
+Added Component: Designator=C29(CAP0402)
+Added Component: Designator=C36(CAP0402)
+Added Component: Designator=C61(CAP0402)
+Added Component: Designator=C62(CAP0402)
+Added Component: Designator=C63(CAP0402)
+Added Component: Designator=C64(CAP0402)
+Added Pin To Net: NetName=3V3 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=3V3 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=3V3 Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=3V3 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=VREGOUT_NET Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=VREGOUT_NET Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=VREGOUT_NET Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=VREGOUT_NET Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=VREGOUT_NET Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C26 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C27 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C28 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C29 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C36 3.3u
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C61 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C62 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C63 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C64 100n

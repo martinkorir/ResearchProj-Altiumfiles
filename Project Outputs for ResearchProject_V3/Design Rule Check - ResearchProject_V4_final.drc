@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\marti\Desktop\Altium_GithubProj\ResearchProject_V4_final.PcbDoc
 Date     : 9/29/2026
-Time     : 2:14:11 PM
+Time     : 3:03:14 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -49,6 +49,8 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "Access Point ESP32" (164.465mm,123.952mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0.162mm < 0.2mm) Between Board Edge And Text "Server ESP32" (115.316mm,126.492mm) on Top Layer 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (113.521mm,125.634mm)(113.521mm,132.384mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (144.911mm,125.454mm)(144.911mm,132.204mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (144.911mm,132.204mm)(162.911mm,132.204mm) on Top Overlay 
@@ -58,7 +60,7 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (64.372mm,124.872mm)(64.372mm,131.622mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (95.521mm,125.634mm)(95.521mm,132.384mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (95.521mm,132.384mm)(113.521mm,132.384mm) on Top Overlay 
-Rule Violations :9
+Rule Violations :11
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
@@ -69,6 +71,6 @@ Waived Violations Of Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
 Waived Violations :2
 
 
-Violations Detected : 9
+Violations Detected : 11
 Waived Violations : 2
 Time Elapsed        : 00:00:01

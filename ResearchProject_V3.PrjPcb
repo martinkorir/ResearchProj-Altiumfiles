@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
 [Document7]
-DocumentPath=ResearchProject_V4_final.PcbDoc
+DocumentPath=ResearchProject_V5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,6 +236,10 @@ DocumentPath=Project Outputs for ResearchProject_V3\Design Rule Check - Research
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Project Outputs for ResearchProject_V3\Design Rule Check - ResearchProject_V5.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for ResearchProject_V3\ResearchProject_V3_schematic.NET
 DItemRevisionGUID=
 

@@ -1,0 +1,38 @@
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Add Pin To Net: Unknown Pin: Pin C61-1
+Add Pin To Net: Unknown Pin: Pin C61-2
+Add Pin To Net: Unknown Pin: Pin C62-1
+Add Pin To Net: Unknown Pin: Pin C62-2
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Class Member: Failed to add class member : Component C26 100n
+Add Class Member: Failed to add class member : Component C27 100n
+Add Class Member: Failed to add class member : Component C28 100n
+Add Class Member: Failed to add class member : Component C29 100n
+Add Class Member: Failed to add class member : Component C36 3.3u
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component C60 27p
+Add Class Member: Failed to add class member : Component C61 100n
+Add Class Member: Failed to add class member : Component C62 100n
+Add Class Member: Failed to add class member : Component C63 100n
+Add Class Member: Failed to add class member : Component C64 100n
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component H2 Header

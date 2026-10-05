@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=VREGOUT_NET Pin=C38-1
+Change Component Comment : Designator=C39 Old Comment=1u New Comment=100n
+Change Component Comment : Designator=C38 Old Comment=3.3u New Comment=10u
+Change Component Designator: OldDesignator=3V3 NewDesignator=H5
+Change Component Designator: OldDesignator=5V NewDesignator=H3
+Change Component Designator: OldDesignator=12V NewDesignator=H1
+Change Component Designator: OldDesignator=AP ESP32 NewDesignator=U7
+Change Component Designator: OldDesignator=CLIENT NewDesignator=U3
+Change Component Designator: OldDesignator=GND NewDesignator=H2
+Change Component Designator: OldDesignator=GND NewDesignator=H34
+Change Component Designator: OldDesignator=SERVER NewDesignator=U13
+Change Component Designator: OldDesignator=USB-C NewDesignator=CN1
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add component: Footprint Not Found CAP0603
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C34-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Added Pin To Net: NetName=3V3 Pin=C38-1
+Add Class Member: Failed to add class member : Component C26 100n
+Add Class Member: Failed to add class member : Component C27 100n
+Add Class Member: Failed to add class member : Component C28 100n
+Add Class Member: Failed to add class member : Component C29 100n
+Add Class Member: Failed to add class member : Component C30 100n
+Add Class Member: Failed to add class member : Component C31 100n
+Add Class Member: Failed to add class member : Component C33 100n
+Add Class Member: Failed to add class member : Component C34 100n
+Add Class Member: Failed to add class member : Component C36 3.3u
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component H34 Header
+Added Member To Class: ClassName=ResearchProject_V3_schematic Member=Component SW2 Tactile Switch - 1

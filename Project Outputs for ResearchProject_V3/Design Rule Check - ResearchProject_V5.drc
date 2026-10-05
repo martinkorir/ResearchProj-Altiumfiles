@@ -1,0 +1,82 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\marti\Desktop\Altium_GithubProj\ResearchProject_V5.PcbDoc
+Date     : 10/5/2026
+Time     : 3:46:55 PM
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.5mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad Free-M3_hole(28.956mm,127.508mm) on Multi-Layer And Text "C8" (30.226mm,128.524mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "Access Point ESP32" (164.465mm,123.952mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "C1" (133.248mm,131.445mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.114mm < 0.2mm) Between Board Edge And Text "R107" (172.213mm,80.899mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.162mm < 0.2mm) Between Board Edge And Text "Server ESP32" (115.316mm,126.492mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (113.521mm,125.634mm)(113.521mm,132.384mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (144.911mm,125.454mm)(144.911mm,132.204mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (144.911mm,132.204mm)(162.911mm,132.204mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (162.911mm,125.454mm)(162.911mm,132.204mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (46.372mm,124.872mm)(46.372mm,131.622mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (46.372mm,131.622mm)(64.372mm,131.622mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (64.372mm,124.872mm)(64.372mm,131.622mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (95.521mm,125.634mm)(95.521mm,132.384mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (95.521mm,132.384mm)(113.521mm,132.384mm) on Top Overlay 
+Rule Violations :13
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+   Waived Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad CN1-1(135.463mm,8.031mm) on Multi-Layer And Pad CN1-1(135.763mm,7.381mm) on Multi-Layer Pad/Via Touching HolesWaived by Martin Korir at 9/29/2026 2:11:04 AMIntentional overlapping slots per CN1 (Hirose DX07S024JJ3R1300) footprint, forming the L-shaped shell tab cutout per the manufacturer's recommended layout. To be verified with the fab before release.
+   Waived Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad CN1-2(143.803mm,7.381mm) on Multi-Layer And Pad CN1-2(144.103mm,8.031mm) on Multi-Layer Pad/Via Touching HolesWaived by Martin Korir at 9/29/2026 2:09:46 AMIntentional overlapping slots per CN1 (Hirose DX07S024JJ3R1300) footprint, forming the L-shaped shell tab cutout per the manufacturer's recommended layout. To be verified with the fab before release.
+Waived Violations :2
+
+
+Violations Detected : 14
+Waived Violations : 2
+Time Elapsed        : 00:00:00
